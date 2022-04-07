@@ -88,7 +88,7 @@ while True:
           "4. Display Student \n"
           "5. Display course \n"
           "6. Display marks \n"
-          "7. Sort Student List by GPA descending"
+          "7. Sort Student List by GPA descending\n"
           "8. Exit\n "
           "***************************\n")
     choose = int(input("Enter your choice: "))
